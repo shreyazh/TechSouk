@@ -1,5 +1,5 @@
 # [TechSouk - Empowering Algerian Digital Transformation](https://tech-souk-by-shreyazh.vercel.app/)
-**Author: Shreyash Srivastva**
+**Author: Shreyash Srivastva**<br>
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg)](https://tech-souk-by-shreyazh.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Built%20with-Next.js-blue.svg)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue.svg)](https://www.typescriptlang.org)
