@@ -57,7 +57,7 @@ Competitive pricing structure designed to provide maximum value while remaining 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tech-souk.git
+git clone https://github.com/shreyazh/TechSouk.git
 ```
 
 2. Install dependencies:
